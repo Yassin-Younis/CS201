@@ -24,7 +24,3 @@ Feel free to explore each homework directory for the corresponding implementatio
 ## Getting Started
 
 To get started with any of the homework assignments, simply navigate to the respective directory and follow the instructions provided in the assignment description.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
